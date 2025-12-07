@@ -27,16 +27,16 @@ exports['reactive_weather']:IsTransitioning()
 
 These functions allow other client resources to access the current weather state or check whether a transition is active.
 
-Purpose
+## Purpose
 
-This repository exists to showcase:
+- This repository exists to showcase:
 
-A clean approach to client-side weather interpolation
+- A clean approach to client-side weather interpolation
 
-Modular and maintainable architecture
+- Modular and maintainable architecture
 
-A reference implementation for developers building custom weather systems or dynamic environmental effects
+- A reference implementation for developers building custom weather systems or dynamic environmental effects
 
-License
+## License
 
 You are free to use, modify, or extend this code. Attribution is appreciated but not required.
