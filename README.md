@@ -1,7 +1,7 @@
-# Reactive Weather (Client Showcase)
+# Météo intelligente (Client uniquement)
 
-This repository contains the client-side implementation of a dynamic, interpolated weather system for FiveM.  
-The goal of this repo is to present clean, readable code and serve as a reference for future development.
+Ce repository contient l'implémentation côté client d'un système météo dynamique FiveM. 
+L'objectif de ce dépôt est de présenter un code propre et lisible, et de servir de référence pour les développements futurs.
 
 ## Overview
 
